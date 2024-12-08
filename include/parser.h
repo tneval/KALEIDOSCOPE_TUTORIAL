@@ -1,5 +1,5 @@
 
-enum Token {
+enum Token2 {
     tok_eof = -1,
 
     // Commands
